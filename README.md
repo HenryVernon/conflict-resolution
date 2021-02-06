@@ -1,2 +1,2 @@
 # conflict-resolution
-# heres some changes okay
+# here are some changes
